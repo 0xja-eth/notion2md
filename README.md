@@ -1,6 +1,7 @@
 # Notion to Markdown Converter
 
 A Python tool for exporting Notion pages to Markdown format with support for various block types, including toggles, columns, images, and more.
+**Without using Notion API**
 
 ## Features
 
